@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #07031a;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
-  color: #FEF2BF;
+  color: #f4f6ff;
 }
 
 .container {
@@ -32,19 +32,19 @@ body {
 }
 
 .red {
-  background-color: red;
+  background-color: #ec524b;
 }
 
 .green {
-  background-color: green;
+  background-color: #a8dda8;
 }
 
 .blue {
-  background-color: blue;
+  background-color: #28abb9;
 }
 
 .yellow {
-  background-color: yellow;
+  background-color: #fcf876;
 }
 
 .pressed {
